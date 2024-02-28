@@ -21,6 +21,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count} previewのURLってデプロイごとに変更されちゃうのかな？
         </button>
+        <button>githubのpull requestでpreviewができるか確認</button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
