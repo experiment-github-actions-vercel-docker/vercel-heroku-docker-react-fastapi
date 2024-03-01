@@ -22,6 +22,7 @@ function App() {
           count is {count} previewのURLってデプロイごとに変更されちゃうのかな？
         </button>
         <button>githubのpull requestでpreviewができるか確認</button>
+        <button>vercelのデプロイってチームで見えるの？</button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
