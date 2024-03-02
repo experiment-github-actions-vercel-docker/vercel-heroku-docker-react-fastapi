@@ -24,6 +24,9 @@ function App() {
         <button>githubのpull requestでpreviewができるか確認</button>
         <button>vercelのデプロイってチームで見えるの？</button>
         <button>githubの単語を教えようのコーナー</button>
+        <button>add:一時的な保存</button>
+        <button>commit:ローカル側のリポジトリに登録</button>
+        <button>push:ローカル側のリポジトリをリモート側に登録</button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
