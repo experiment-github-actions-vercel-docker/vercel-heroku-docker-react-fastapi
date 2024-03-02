@@ -23,6 +23,7 @@ function App() {
         </button>
         <button>githubのpull requestでpreviewができるか確認</button>
         <button>vercelのデプロイってチームで見えるの？</button>
+        <button>githubの単語を教えようのコーナー</button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
